@@ -76,7 +76,8 @@ OUTPUT
 
  
 TABULATION
-![WhatsApp Image 2025-11-26 at 9 23 16 AM](https://github.com/user-attachments/assets/0f09d7fe-d5f9-46f1-b92f-9bd044414818)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/85120934-e96a-4e28-a535-9ddf30a19e35" />
+
 
 
 
